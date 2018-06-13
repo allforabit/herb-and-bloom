@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter"
+    title: "HERB AND BLOOM LONDON"
   },
   plugins: [
     "gatsby-plugin-react-next",
